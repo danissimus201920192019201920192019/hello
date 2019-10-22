@@ -17,7 +17,7 @@ int main()
    }
    if(!flag){
       int a = atoi(d);
-      cout << a + 5;
+      cout << a + 8;
    }
    cout << endl;
    return 0;
